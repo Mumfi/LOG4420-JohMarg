@@ -10,7 +10,6 @@
     <nav>
         <ul>
             <li><a href="bienvenue.html">PAGE D'ACCUEIL</a></li>
-            
             <li><a href="tableau_de_bord.html">TABLEAU DE BORD</a></li>
             <li><a href="instructions.html">PAGE D'INSTRUCTION</a></li>
         </ul>
